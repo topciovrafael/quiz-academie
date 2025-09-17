@@ -123,32 +123,32 @@ function App() {
           </h1>
           <p>
             {selectedLanguage === "eng"
-              ? "Your Score"
+              ? "Scorul tău"
               : selectedLanguage === "ist"
-              ? "Il tuo Punteggio"
+              ? "Scorul tău"
               : "Scorul tău"}
             : {score}{" "}
             {selectedLanguage === "eng"
-              ? "out of"
-              : selectedLanguage === "ist"
-              ? "su"
+              ? "din"
+              : selectedLanguage === "din"
+              ? "din"
               : "din"}{" "}
             {shuffledQuestions.length}
           </p>
           <p>
             {selectedLanguage === "eng"
-              ? "Percentage"
+              ? "Procent"
               : selectedLanguage === "ist"
-              ? "Percentuale"
+              ? "Procent"
               : "Procent"}
             : {Math.round((score / shuffledQuestions.length) * 100)}%
           </p>
           <div className="quiz-actions">
             <button onClick={restartQuiz} className="restart-btn">
               {selectedLanguage === "eng"
-                ? "Take Quiz Again"
+                ? "Repetă Testul"
                 : selectedLanguage === "ist"
-                ? "Rifai il Quiz"
+                ? "Repetă Testul"
                 : "Repetă Testul"}
             </button>
             <button
@@ -156,10 +156,10 @@ function App() {
               className="language-btn"
             >
               {selectedLanguage === "eng"
-                ? "Change Language"
+                ? "Schimbă Testul"
                 : selectedLanguage === "ist"
-                ? "Cambia Lingua"
-                : "Schimbă Limba"}
+                ? "Schimbă Testul"
+                : "Schimbă Testul"}
             </button>
           </div>
         </div>
@@ -185,23 +185,23 @@ function App() {
         </div>
         <div className="quiz-progress">
           {selectedLanguage === "eng"
-            ? "Question"
+            ? "Întrebarea"
             : selectedLanguage === "ist"
-            ? "Domanda"
+            ? "Întrebarea"
             : "Întrebarea"}{" "}
           {currentQuestionIndex + 1}{" "}
           {selectedLanguage === "eng"
-            ? "of"
+            ? "din"
             : selectedLanguage === "ist"
-            ? "di"
+            ? "din"
             : "din"}{" "}
           {shuffledQuestions.length}
         </div>
         <div className="score">
           {selectedLanguage === "eng"
-            ? "Score"
+            ? "Scor"
             : selectedLanguage === "ist"
-            ? "Punteggio"
+            ? "Scor"
             : "Scor"}
           : {score}
         </div>
