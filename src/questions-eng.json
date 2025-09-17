@@ -1,182 +1,182 @@
 [
   {
     "id": 1,
-    "question": "What is the capital of France?",
-    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "question": "I like ............ music but I love ............ music they play at the jazz club in town.",
+    "options": ["- / an", "-/ ", "-/ the", "a /"],
     "correctAnswerIndex": 2
   },
   {
     "id": 2,
-    "question": "Which planet is known as the Red Planet?",
-    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "question": "I was about to print out my end-of-year project when my computer crashed. It was totally ............ .",
+    "options": ["nail-biting", "soul-destroying", "far-fetched", "hair-raising"],
     "correctAnswerIndex": 1
   },
   {
     "id": 3,
-    "question": "What is 2 + 2?",
-    "options": ["3", "4", "5", "6"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 4,
-    "question": "Who painted the Mona Lisa?",
-    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 5,
-    "question": "What is the largest ocean on Earth?",
-    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-    "correctAnswerIndex": 3
-  },
-  {
-    "id": 6,
-    "question": "Which programming language is primarily used for web development?",
-    "options": ["Python", "JavaScript", "C++", "Java"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 7,
-    "question": "What is the chemical symbol for gold?",
-    "options": ["Go", "Gd", "Au", "Ag"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 8,
-    "question": "In which year did World War II end?",
-    "options": ["1944", "1945", "1946", "1947"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 9,
-    "question": "What is the square root of 64?",
-    "options": ["6", "7", "8", "9"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 10,
-    "question": "Which is the smallest country in the world?",
-    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 11,
-    "question": "What does HTML stand for?",
-    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink and Text Markup Language"],
+    "question": "I've lost a lot of weight since my illness and this skirt is too ............ now.",
+    "options": ["loose", "plain", "silk", "tight"],
     "correctAnswerIndex": 0
   },
   {
-    "id": 12,
-    "question": "Which organ in the human body produces insulin?",
-    "options": ["Liver", "Kidney", "Pancreas", "Heart"],
+    "id": 4,
+    "question": "Why would ............ hide your keys ? There is ............ reason for ............ to do ............ so silly.",
+    "options": ["no one / any / anyone / nothing", "anyone / no / anyone / something", "anyone / any / anyone / nothing", "anyone / any / anyone / something"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "We'd better wait till December. David ............ his exam by then, so he ............ to come with us on the trip.",
+    "options": ["will have / will be able", "will have had / can", "will have had / will be able", "is having / will be able"],
     "correctAnswerIndex": 2
   },
   {
-    "id": 13,
-    "question": "What is the speed of light in vacuum?",
-    "options": ["300,000 km/s", "299,792,458 m/s", "186,282 miles/s", "All of the above"],
+    "id": 6,
+    "question": "I ............ that the thief ............ and ............ to prison.",
+    "options": ["was already told / has been arrested / sent", "have already been told / has been arrested / was sent", "have already been told / has been arrested / has been sent", "was already told / was arrested / was sent"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "He congratulated me ............ winning the prize.",
+    "options": ["with", "on", "at", "about"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "Yesterday he ............ at 2:30 and ............ to wait in the VIP lounge.",
+    "options": ["arrived/ had been told", "arrived/ told", "arrived/ was told", "had arrived/ was told"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 9,
+    "question": "The snowstorm caused the team's expedition to be put..... a few days.",
+    "options": ["back", "down", "about", "through"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 10,
+    "question": "My sister....... me crazy, she .......... my things.",
+    "options": ["is driving / always takes", "drive / is always taking", "drives / is always taking", "drove / is always taking"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "He............ now so he has to walk to work.",
+    "options": ["has his car repaired", "repairs his car", "is having his car repaired", "had his car repaired"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 12,
+    "question": "I'm sorry I ............ before but I ............ very busy lately because Tom ............ away.",
+    "options": ["didn't write/ have been/ was", "didn't write/ was/ was", "haven't written/ was/ was", "haven't written/ have been/ has been"],
     "correctAnswerIndex": 3
   },
   {
+    "id": 13,
+    "question": "You............ have to remind him; he always remembers things.",
+    "options": ["hardly never", "never don't", "hardly ever", "hardly don't"],
+    "correctAnswerIndex": 2
+  },
+  {
     "id": 14,
-    "question": "Who wrote 'Romeo and Juliet'?",
-    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
-    "correctAnswerIndex": 1
+    "question": "Situated ................ beside the lake, the villa has gone on sale for $750.000.",
+    "options": ["barely", "surely", "directly", "rightly"],
+    "correctAnswerIndex": 2
   },
   {
     "id": 15,
-    "question": "What is the largest mammal in the world?",
-    "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
-    "correctAnswerIndex": 1
+    "question": "There was ............ much dust that we couldn't see what was happening.",
+    "options": ["so", "such a", "such an", "such"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 16,
-    "question": "Which gas makes up most of Earth's atmosphere?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 17,
-    "question": "In what year was the first iPhone released?",
-    "options": ["2006", "2007", "2008", "2009"],
+    "question": "Everyone is looking forward to the competition, ............",
+    "options": ["are they ?", "aren't they ?", "isn't it ?", "isn't he ?"],
     "correctAnswerIndex": 1
   },
   {
-    "id": 18,
-    "question": "What is the currency of Japan?",
-    "options": ["Won", "Yuan", "Yen", "Rupee"],
+    "id": 17,
+    "question": "............ the increase in social networking, it's easier to keep in touch with people around the world nowadays.",
+    "options": ["Suppose", "Unless", "Given", "Otherwise"],
     "correctAnswerIndex": 2
   },
   {
+    "id": 18,
+    "question": "............ he more careful, he would make fewer mistakes while editing the paper he wrote for the publishing house.",
+    "options": ["Wasn't", "Were", "Had been", "But for"],
+    "correctAnswerIndex": 1
+  },
+  {
     "id": 19,
-    "question": "Which continent is the Sahara Desert located in?",
-    "options": ["Asia", "Africa", "Australia", "South America"],
+    "question": "'Don't touch the iron !'",
+    "options": ["He warned me to not touch the iron.", "He warned me not to touch the iron.", "He warned me to not touching the iron.", "He warned me not touching the iron."],
     "correctAnswerIndex": 1
   },
   {
     "id": 20,
-    "question": "What does CSS stand for in web development?",
-    "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
-    "correctAnswerIndex": 1
+    "question": "'Would you like me to do the shopping ?'",
+    "options": ["She offered to do the shopping.", "She was offered to do the shopping.", "She agreed to do the shopping.", "She would like to do the shopping."],
+    "correctAnswerIndex": 0
   },
   {
     "id": 21,
-    "question": "Which is the longest river in the world?",
-    "options": ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
+    "question": "............ to so many people in a single night.",
+    "options": ["On no account have I been introduced", "Never have I been introduced", "No sooner have I been introduced", "Rarely have I introduced"],
     "correctAnswerIndex": 1
   },
   {
     "id": 22,
-    "question": "What is the hardest natural substance on Earth?",
-    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "question": "............ you convince me that you are committed ............ I give you my agreement.",
+    "options": ["When / shall", "Until / will", "Not until / will", "Only after / need"],
     "correctAnswerIndex": 2
   },
   {
     "id": 23,
-    "question": "Who developed the theory of relativity?",
-    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+    "question": "You ............ permission for this, didn't you ?",
+    "options": ["get", "did get", "didn't get", "could get"],
     "correctAnswerIndex": 1
   },
   {
     "id": 24,
-    "question": "What is the capital of Australia?",
-    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
-    "correctAnswerIndex": 2
+    "question": "They don't want a house, they want a flat.",
+    "options": ["It's not a house they want, not a flat.", "It's neither a house they want nor a flat.", "It's a house they want, not a flat.", "It's not a house they want, it's a flat."],
+    "correctAnswerIndex": 3
   },
   {
     "id": 25,
-    "question": "Which programming paradigm does React follow?",
-    "options": ["Object-Oriented", "Functional", "Component-Based", "Procedural"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 26,
-    "question": "What is the freezing point of water in Celsius?",
-    "options": ["-1°C", "0°C", "1°C", "32°C"],
+    "question": "In order to ensure that your essay meets all formal requirements you must ............ it when you finish it.",
+    "options": ["summarize", "proof-read", "highlight", "rewrite"],
     "correctAnswerIndex": 1
   },
   {
-    "id": 27,
-    "question": "Which company created the Android operating system?",
-    "options": ["Apple", "Microsoft", "Google", "Samsung"],
+    "id": 26,
+    "question": "............ learning has proved highly popular yet not very efficient during the COVID pandemics.",
+    "options": ["Remotely", "Compulsory", "Long-distance", "Quickly"],
     "correctAnswerIndex": 2
   },
   {
+    "id": 27,
+    "question": "I think I'll take Sarah to a fancy restaurant for her birthday; ............ , let's have a surprise party at home.",
+    "options": ["on principle", "on purpose", "on target", "on second thoughts"],
+    "correctAnswerIndex": 3
+  },
+  {
     "id": 28,
-    "question": "What is the main component of the Sun?",
-    "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+    "question": "Don't be afraid, we're not going to get lost. I know this forest like the back of my ............ .",
+    "options": ["house", "hand", "spine", "car"],
     "correctAnswerIndex": 1
   },
   {
     "id": 29,
-    "question": "In which sport would you perform a slam dunk?",
-    "options": ["Football", "Basketball", "Tennis", "Volleyball"],
-    "correctAnswerIndex": 1
+    "question": "Travellers differ from tourists in that they prefer getting off the beaten ............ to holidaying at popular holiday spots.",
+    "options": ["path", "line", "track", "road"],
+    "correctAnswerIndex": 2
   },
   {
     "id": 30,
-    "question": "What does API stand for in programming?",
-    "options": ["Application Programming Interface", "Advanced Programming Interface", "Automated Programming Interface", "Application Process Interface"],
-    "correctAnswerIndex": 0
+    "question": "I can't believe I got the promotion! Let's go out and ............ .",
+    "options": ["paint the neighbourhood", "paint the town black", "paint the city streets", "paint the town red"],
+    "correctAnswerIndex": 3
   }
 ]

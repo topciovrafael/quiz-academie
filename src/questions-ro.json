@@ -1,182 +1,182 @@
 [
   {
     "id": 1,
-    "question": "Care este capitala Franței?",
-    "options": ["Londra", "Berlin", "Paris", "Madrid"],
-    "correctAnswerIndex": 2
+    "question": "Selectează varianta în care există doar relație de paronimie:",
+    "options": ["abilitate/agilitate; emigrație/imigrație; libret/livret; vibra/răsuna", "arbitral/arbitrar; a enerva/a inerva; oral/orar; nervos/calm", "apropiere/apropriere; eminent/iminent; literal/literar; barem/barem", "deferență/diferență; familial/familiar; ordinal/ordinar; temporal/temporar"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 2,
-    "question": "Care planetă este cunoscută ca Planeta Roșie?",
-    "options": ["Venus", "Marte", "Jupiter", "Saturn"],
+    "question": "Antonimele cuvintelor subliniate din următorul enunț: Dorința de reușită îl motiva permanent, chiar dacă îndrăzneala sa. uneori îl înspăimânta sunt:",
+    "options": ["eșec, veșnic, curaj", "eșec, temporar, timiditate", "insucces, niciodată, forță", "succes, temporar, perseverență"],
     "correctAnswerIndex": 1
   },
   {
     "id": 3,
-    "question": "Cât este 2 + 2?",
-    "options": ["3", "4", "5", "6"],
+    "question": "Sunt corecte toate structurile cu numerale din seria:",
+    "options": ["al șaptisprezecelea, al o sutălea, al douăsutălea", "al șaisprezecelea, al o sutălea, al douăsutelea", "al șasesprezecelea, al o sutelea, al douăsutelea", "al patrusprezecelea, al o sutălea, al douăsutelea"],
     "correctAnswerIndex": 1
   },
   {
     "id": 4,
-    "question": "Cine a pictat Mona Lisa?",
-    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
-    "correctAnswerIndex": 2
+    "question": "Varianta în care nu există omofone este:",
+    "options": ["Ea are mobilă veche de vânzare./Am cumpărat o masă mobilă.", "Am văzut la planetariu mii de stele./De, mi-i cam rușine de bunica ta!", "Doar un car alegoric ne-a atras atenția./C-ar vrea sau nu, nu ne pasă.", "Nu sar niciodată peste masa de dimineață./S-ar duce la mare, dar nu are timp."],
+    "correctAnswerIndex": 0
   },
   {
     "id": 5,
-    "question": "Care este cel mai mare ocean de pe Pământ?",
-    "options": ["Oceanul Atlantic", "Oceanul Indian", "Oceanul Arctic", "Oceanul Pacific"],
-    "correctAnswerIndex": 3
+    "question": "Se identifică sensul propriu secundar al cuvântului subliniat în ambele enunțuri din seria:",
+    "options": ["Au încolțit ghioceii./I-a încolțit un gând.", "S-a stârnit ploaia./Am primit o ploaie de aplauze.", "Ne întâlnim la piciorul podului./S-a rupt piciorul mesei.", "S-a afundat în inima pădurii./El este inima petrecerii"],
+    "correctAnswerIndex": 2
   },
   {
     "id": 6,
-    "question": "Care limbaj de programare este folosit în principal pentru dezvoltarea web?",
-    "options": ["Python", "JavaScript", "C++", "Java"],
-    "correctAnswerIndex": 1
+    "question": "Există pleonasm în enunțul:",
+    "options": ["Nu și-a dat seama că acest unguent este vindicativ.", "Distracția este distracție, iar școala este școală!", "Dumnealui ne-a dat câteva exemple elocvente pentru exercițiul precedent.", "Privind retrospectiv în urmă, a realizat ce a făcut."],
+    "correctAnswerIndex": 3
   },
   {
     "id": 7,
-    "question": "Care este simbolul chimic pentru aur?",
-    "options": ["Go", "Gd", "Au", "Ag"],
-    "correctAnswerIndex": 2
+    "question": "Seria în care doar prima variantă este accentuată corect este:",
+    "options": ["regizor/regizor", "miros/miros", "aripă/aripă", "antic/antic"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 8,
-    "question": "În ce an s-a încheiat cel de-al Doilea Război Mondial?",
-    "options": ["1944", "1945", "1946", "1947"],
-    "correctAnswerIndex": 1
+    "question": "Seria care conține numai cuvinte bisilabice este:",
+    "options": ["direct, straniu, chip, lege", "căci, mai, spun, timp", "poet, târziu, funcție, elevat", "jertfă, real, nedrept, cinste"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 9,
-    "question": "Care este rădăcina pătrată a lui 64?",
-    "options": ["6", "7", "8", "9"],
-    "correctAnswerIndex": 2
+    "question": "Numărul de litere și de sunete pentru cuvintele eu, ger, erau și fix este corect în seria:",
+    "options": ["2 litere, 3 sunete; 3 litere, 3 sunete; 4 litere, 5 sunete; 3 litere, 4 sunete", "2 litere, 3 sunete; 3 litere, 3 sunete; 4 litere, 5 sunete; 3 litere, 3 sunete", "2 litere, 2 sunete; 3 litere, 2 sunete; 5 litere, 5 sunete; 3 litere, 2 sunete", "2 litere, 1 sunet; 3 litere, 2 sunete; 4 litere, 5 sunete; 3 litere, 3 sunete"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 10,
-    "question": "Care este cea mai mică țară din lume?",
-    "options": ["Monaco", "Vatican", "San Marino", "Liechtenstein"],
-    "correctAnswerIndex": 1
+    "question": "Seria care conține numai cuvinte cu diftong este:",
+    "options": ["cameră, optsprezecelea, duduie, mafie, ceață", "Mihai, vegheau, lapoviță, dau, pâine", "poezie, ecou, cacao, Ploiești, ceas", "iarnă, deal, câine, soare, ziceau"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 11,
-    "question": "Ce înseamnă HTML?",
-    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink and Text Markup Language"],
+    "question": "Sunt scrise corect toate cuvintele din seria:",
+    "options": ["a înnobila, a înnoda, a înnoi, a înnădi", "a (se) însera, a (se) înopta, a înota, a (se) îneca", "a înnebuni, a înnegri, a (se) înnegura, a înnota", "a înoda, a înnămoli, a înnisipa, a înnopta"],
     "correctAnswerIndex": 0
   },
   {
     "id": 12,
-    "question": "Care organ din corpul uman produce insulină?",
-    "options": ["Ficatul", "Rinichiul", "Pancreasul", "Inima"],
-    "correctAnswerIndex": 2
+    "question": "Identifică seria de cuvinte în care ,,x\" se pronunță ,,gz\":",
+    "options": ["sufix, excelent, exponent, linx", "auxiliar, exact, exercițiu, exilat", "fix, ortodox, excursie, extraordinar", "complex, sfinx, expirat, excepție"],
+    "correctAnswerIndex": 1
   },
   {
     "id": 13,
-    "question": "Care este viteza luminii în vid?",
-    "options": ["300.000 km/s", "299.792.458 m/s", "186.282 mile/s", "Toate variantele de mai sus"],
-    "correctAnswerIndex": 3
+    "question": "Alege varianta incorectă:",
+    "options": ["Mama sau tata nu admit obrăznicia.", "Nu se merită să plângi pentru ei.", "N-am decât un frate.", "Am doar un frate."],
+    "correctAnswerIndex": 1
   },
   {
     "id": 14,
-    "question": "Cine a scris 'Romeo și Julieta'?",
-    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
-    "correctAnswerIndex": 1
+    "question": "Alege forma corectă de singular:",
+    "options": ["ochelar", "spaghetă", "aplauză", "aloe"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 15,
-    "question": "Care este cel mai mare mamifer din lume?",
-    "options": ["Elefantul African", "Balena Albastră", "Girafa", "Hipopotamul"],
-    "correctAnswerIndex": 1
+    "question": "În enunțul Fie cum spui!, cuvântul subliniat este:",
+    "options": ["adverb relativ", "pronume nehotărât", "pronume relativ", "conjuncție subordonatoare"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 16,
-    "question": "Ce gaz formează cea mai mare parte din atmosfera Pământului?",
-    "options": ["Oxigen", "Dioxid de Carbon", "Azot", "Hidrogen"],
+    "question": "Seria care conține doar interjecții este:",
+    "options": ["Iată!, Na!, Of!, Adu!", "Au!, Uite!, Bre!, Luați!", "Zău!, Hai!, Buf!, Țuști!", "Ah!, Hei-rup!, Vai!, Zi!"],
     "correctAnswerIndex": 2
   },
   {
     "id": 17,
-    "question": "În ce an a fost lansat primul iPhone?",
-    "options": ["2006", "2007", "2008", "2009"],
-    "correctAnswerIndex": 1
+    "question": "Se identifică doar pronume reflexive în enunțul:",
+    "options": ["Se vede că îi înțelege pe ceilalți.", "Își spune adesea că nu-i datorează nimic.", "Mi-ar plăcea să ne însoțiți!", "Mă gândesc că ar trebui să-mi sporesc atenția"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 18,
-    "question": "Care este moneda Japoniei?",
-    "options": ["Won", "Yuan", "Yen", "Rupie"],
-    "correctAnswerIndex": 2
+    "question": "Nu există doar substantive colective în seria:",
+    "options": ["asfințit, turmă, brădet, zmeuriș", "turcime, ierbărie, tufiș, studențime", "tineret, stol, mulțime, cârd", "cireadă, porumbiște, făget, stejăriș"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 19,
-    "question": "Pe ce continent se află deșertul Sahara?",
-    "options": ["Asia", "Africa", "Australia", "America de Sud"],
-    "correctAnswerIndex": 1
+    "question": "În enunțurile Venind de la mare, m-am întâlnit cu o prietenă., Merg cu plăcere în concediu., A plecat fără a anunța., S-a săturat de călcat rufe., cuvintele subliniate au, în ordine, următoarele funcții sintactice:",
+    "options": ["complement circumstanțial de timp, complement circumstanțial de mod, complement circumstanțial de timp, complement direct", "complement circumstanțial de mod, complement indirect, complement circumstanțial de timp, complement indirect", "complement circumstanțial de cauză, complement circumstanțial de mod, complement circumstanțial de mod, complement circumstanțial de cauză", "complement circumstanțial de timp, complement circumstanțial de mod, complement circumstanțial de mod, complement indirect"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 20,
-    "question": "Ce înseamnă CSS în dezvoltarea web?",
-    "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
-    "correctAnswerIndex": 1
+    "question": "În enunțurile Firește că voi pleca mâine, chiar dacă aceasta este împotriva voinței tale., Hai și tu, dacă zici că te temi pentru mine!, numărul predicatelor este:",
+    "options": ["șase", "patru", "cinci", "trei"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 21,
-    "question": "Care este cel mai lung râu din lume?",
-    "options": ["Râul Amazon", "Râul Nil", "Râul Mississippi", "Râul Yangtze"],
-    "correctAnswerIndex": 1
+    "question": "În enunțul Buchetul de trandafiri este pentru mama ei, iar zambilele albe de acolo sunt pentru tine., cuvintele subliniate sunt, în ordine:",
+    "options": ["atribut substantival prepozițional, atribut adjectival, atribut pronominal genitival, atribut adverbial", "atribut adjectival, atribut pronominal genitival, atribut adverbial, atribut substantival prepozițional", "atribut substantival prepozițional, atribut pronominal genitival, atribut adjectival, atribut adverbial", "atribut substantival genitival, atribut pronominal genitival, atribut adjectival, atribut adverbial"],
+    "correctAnswerIndex": 2
   },
   {
     "id": 22,
-    "question": "Care este cea mai dură substanță naturală de pe Pământ?",
-    "options": ["Aurul", "Fierul", "Diamantul", "Platina"],
-    "correctAnswerIndex": 2
+    "question": "Numărul atributelor din secvența În acest oraș de la malul mării, se aude mereu glasul cristalin al pescărușilor în minunatele zile de sărbători. este:",
+    "options": ["șase", "șapte", "patru", "cinci"],
+    "correctAnswerIndex": 1
   },
   {
     "id": 23,
-    "question": "Cine a dezvoltat teoria relativității?",
-    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
-    "correctAnswerIndex": 1
+    "question": "Complementele circumstanțiale de loc exprimate prin adverbe și locuțiuni adverbiale din enunțurile Stai acasă, nu pleca din oraș!, Te muți din loc în loc prea des!, Vino pe la mine când pleci de acolo!, Hai la cumpărături, apoi mergem noi undeva! sunt:",
+    "options": ["din oraș, din loc în loc, de acolo, undeva", "acasă, din oraș, de acolo, undeva", "acasă, de acolo, la cumpărături, undeva", "acasă, din loc în loc, de acolo, undeva"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 24,
-    "question": "Care este capitala Australiei?",
-    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
-    "correctAnswerIndex": 2
+    "question": "În enunțul În noaptea de Crăciun, bunicul ne a dus pe fiecare dintre noi să vedem stelele., cuvintele subliniate îndeplinesc, în ordine, funcție sintactică de:",
+    "options": ["atribut substantival genitival, predicat verbal, atribut pronominal genitival, complement indirect", "complement circumstanțial de timp, predicat verbal, atribut pronominal prepozițional, complement direct", "atribut substantival prepozițional, predicat verbal, atribut pronominal genitival, subiect", "atribut substantival prepozițional, predicat verbal, atribut pronominal prepozițional, complement direct"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 25,
-    "question": "Ce paradigmă de programare urmează React?",
-    "options": ["Orientată pe Obiecte", "Funcțională", "Bazată pe Componente", "Procedurală"],
-    "correctAnswerIndex": 2
+    "question": "Propozițiile din fraza Zici să plecăm fără să ne audă? sunt, în ordine:",
+    "options": ["principală, propoziție subordonată subiectivă, propoziție subordonată circumstanțială consecutivă", "principală, principală, propoziție subordonată circumstanțială de loc", "principală, propoziție subordonată completivă directă, propoziție subordonată circumstanțială consecutivă", "principală, propoziție subordonată completivă directă, propoziție subordonată circumstanțială de mod"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 26,
-    "question": "Care este punctul de îngheț al apei în Celsius?",
-    "options": ["-1°C", "0°C", "1°C", "32°C"],
-    "correctAnswerIndex": 1
+    "question": "Elementul regent al propoziției subordonate din fraza E vai de cine sare gardul! este:",
+    "options": ["un substantiv comun", "un adverb de mod", "un verb predicativ", "o interjecție simplă"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 27,
-    "question": "Ce companie a creat sistemul de operare Android?",
-    "options": ["Apple", "Microsoft", "Google", "Samsung"],
+    "question": "În fraza E de mirare cum de a rezistat să stea până la această oră și ar fi bine să facă o pauză., există:",
+    "options": ["patru propoziții subordonate subiective", "o propoziție subordonată subiectivă", "două propoziții subordonate subiective", "trei propoziții subordonate subiective"],
     "correctAnswerIndex": 2
   },
   {
     "id": 28,
-    "question": "Care este componenta principală a Soarelui?",
-    "options": ["Heliu", "Hidrogen", "Oxigen", "Carbon"],
-    "correctAnswerIndex": 1
+    "question": "În fraza Îi spunea mereu ce capitol să învețe., elementul de relație este:",
+    "options": ["conjuncție subordonatoare", "pronume relativ", "pronume nehotărât", "adjectiv pronominal relativ"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 29,
-    "question": "În ce sport se execută o smečă?",
-    "options": ["Fotbal", "Baschet", "Tenis", "Volei"],
-    "correctAnswerIndex": 1
+    "question": "În enunțul Se gândea adesea că nu va putea să reușească, dar își spunea că a muncit mult și știa că munca susținută aduce satisfacții cui este perseverent. există următoarele propoziții subordonate:",
+    "options": ["o propoziție subordonată completivă indirectă, patru propoziții subordonate completive directe", "patru propoziții subordonate completive indirecte, o propoziție subordonată completivă directă", "două propoziții subordonate completive indirecte, trei propoziții subordonate completive directe", "trei propoziții subordonate completive indirecte, o propoziție subordonată completivă directă"],
+    "correctAnswerIndex": 2
   },
   {
     "id": 30,
-    "question": "Ce înseamnă API în programare?",
-    "options": ["Application Programming Interface", "Advanced Programming Interface", "Automated Programming Interface", "Application Process Interface"],
-    "correctAnswerIndex": 0
+    "question": "În fraza Dacă ai citit operele literare din programă și dacă te-ai pregătit suficient înseamnă că vei lua examenul de bacalaureat cu notă mare. există, în ordine, următoarele tipuri de propoziții:",
+    "options": ["două propoziții subordonate circumstanțiale de timp, o propoziție principală, o propoziție subordonată completivă directă", "două propoziții subordonate subiective, o propoziție principală, o propoziție subordonată predicativă", "două propoziții subordonate circumstanțiale de cauză, o propoziție principală, o propoziție subordonată completivă directă", "două propoziții subordonate circumstanțiale condiționale, o propoziție principală, o propoziție subordonată predicativă"],
+    "correctAnswerIndex": 1
   }
 ]

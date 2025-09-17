@@ -1,182 +1,182 @@
 [
   {
     "id": 1,
-    "question": "Qual è la capitale della Francia?",
-    "options": ["Londra", "Berlino", "Parigi", "Madrid"],
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. Tratatul de la Craiova; B. Dictatul de la Viena; C. Ultimatumul sovietic prin care se cerea cedarea Basarabiei și a Bucovinei de Nord.",
+    "options": ["ACB", "ABC", "CBA", "BAC"],
     "correctAnswerIndex": 2
   },
   {
     "id": 2,
-    "question": "Quale pianeta è conosciuto come il Pianeta Rosso?",
-    "options": ["Venere", "Marte", "Giove", "Saturno"],
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. Constituția prevedea: Puterea legislativă era încredințată regelui și Reprezentanței Naționale; B. Constituția prevedea: Regele era capul statului; C. Constituția prevedea: Parlamentul este organ reprezentativ suprem al poporului român.",
+    "options": ["ACB", "ABC", "BAC", "CAB"],
     "correctAnswerIndex": 1
   },
   {
     "id": 3,
-    "question": "Quanto fa 2 + 2?",
-    "options": ["3", "4", "5", "6"],
-    "correctAnswerIndex": 1
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. Răscoala de la Bobâlna; B. Lupta de la Grünwald; C. Înfrângerea armatei creștine de la Varna.",
+    "options": ["ABC", "CAB", "BAC", "BCA"],
+    "correctAnswerIndex": 2
   },
   {
     "id": 4,
-    "question": "Chi ha dipinto la Gioconda?",
-    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 5,
-    "question": "Qual è l'oceano più grande della Terra?",
-    "options": ["Oceano Atlantico", "Oceano Indiano", "Oceano Artico", "Oceano Pacifico"],
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. Sfatul Țării proclamă autonomia Republicii Democratice Moldovenești; B. Carol I de Habsburg lansează manifestul Către popoarele mele credincioase; C. Congresul General al Bucovinei proclamă unirea necondiționată a Bucovinei cu Regatul României.",
+    "options": ["BAC", "CAB", "ACB", "ABC"],
     "correctAnswerIndex": 3
   },
   {
-    "id": 6,
-    "question": "Quale linguaggio di programmazione è principalmente usato per lo sviluppo web?",
-    "options": ["Python", "JavaScript", "C++", "Java"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 7,
-    "question": "Qual è il simbolo chimico dell'oro?",
-    "options": ["Go", "Gd", "Au", "Ag"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 8,
-    "question": "In che anno è finita la Seconda Guerra Mondiale?",
-    "options": ["1944", "1945", "1946", "1947"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 9,
-    "question": "Qual è la radice quadrata di 64?",
-    "options": ["6", "7", "8", "9"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 10,
-    "question": "Qual è il paese più piccolo del mondo?",
-    "options": ["Monaco", "Città del Vaticano", "San Marino", "Liechtenstein"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 11,
-    "question": "Cosa significa HTML?",
-    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink and Text Markup Language"],
+    "id": 5,
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. Ion Câmpineanu în Act de Unire și Independență preconiza un \"regat al Daciei\" independent; B. Înființarea Societății Frăția la București; C. Regulamentul Organic intră în vigoare în Muntenia.",
+    "options": ["CAB", "CBA", "ABC", "BAC"],
     "correctAnswerIndex": 0
   },
   {
+    "id": 6,
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. Căderea Zidului Berlinului; B. Statele Unite ale Americii inițiază politica de stăvilire a expansiunii comunismului în Europa de Vest; C. Este înființat sindicatul liber Solidaritatea în Polonia.",
+    "options": ["BCA", "CBA", "ACB", "BAC"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 7,
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. caimacamul Nicolae Vogoride falsifică alegerile din Moldova; B. Adunarea Ad-hoc a Moldovei cere unirea Principatelor; C. Convenția de la Paris.",
+    "options": ["ACB", "ABC", "CAB", "BAC"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. Tezele din Aprilie ale lui Lenin; B. Marea Teroare desfășurată la ordinul lui Stalin; C. Începutul colectivizării forțate în U.R.S.S..",
+    "options": ["ACB", "CBA", "CAB", "BAC"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 9,
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. Vizita în România a președintelui Franței, Charles de Gaulle; B. România stabilește relații diplomatice cu R.F.G.; C. Vizita președintelui S.U.A, Gerald Ford, la București.",
+    "options": ["BAC", "ABC", "CAB", "ACB"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 10,
+    "question": "Așezați în ordine cronologică următoarele evenimente: A. Transilvania devine principat autonom sub suzeranitate otomană; B. Este atestat primul comitat în Transilvania; C. Calitatea de nobil e condiționată de apartența la religia catolică.",
+    "options": ["ACB", "ABC", "CBA", "BCA"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 11,
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: În concepția lui Hitler, evreii sunt vinovați pentru scăderea nivelului de trai al populației Germaniei, după terminarea Primului Război Mondial și în urma crizei economice din anii 1929-1933; Împotriva evreilor, naziștii au dezlănțuit o persecuție sălbatică.",
+    "options": ["ambele afirmații sunt adevărate, fără relație de cauzalitate", "primul enunț este adevărat, al doilea este fals", "primul enunț este fals, al doilea este adevărat", "ambele afirmații sunt adevărate, cu relație de cauzalitate între ele"],
+    "correctAnswerIndex": 3
+  },
+  {
     "id": 12,
-    "question": "Quale organo del corpo umano produce insulina?",
-    "options": ["Fegato", "Rene", "Pancreas", "Cuore"],
-    "correctAnswerIndex": 2
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: Gândirea politică a generat la începutul secolului al XIX-lea un adevărat program de reforme și de emancipare națională care conturează proiectul statului român modern; Constituția cărvunarilor întocmită în 1821 de Ionică Tăutu susține \"monarhia mărginită și moștenitoare\".",
+    "options": ["primul enunț este fals, al doilea este adevărat", "ambele afirmații sunt adevărate, fără relație de cauzalitate", "ambele afirmații sunt adevărate, cu relație de cauzalitate între ele", "primul enunț este adevărat, al doilea este fals"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 13,
-    "question": "Qual è la velocità della luce nel vuoto?",
-    "options": ["300.000 km/s", "299.792.458 m/s", "186.282 miglia/s", "Tutte le precedenti"],
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: Prin tratatul de la Alba Iulia din 1595, Biserica Ortodoxă din Transilvania era pusă sub jurisdicția Mitropoliei de la Târgoviște; Prin același tratat împăratul Rudolf al II-lea recunoștea domnia ereditară în familia lui Mihai Viteazul.",
+    "options": ["primul enunț este fals, al doilea este adevărat", "ambele afirmații sunt adevărate, fără relație de cauzalitate", "ambele afirmații sunt adevărate, cu relație de cauzalitate între ele", "primul enunț este adevărat, al doilea este fals"],
     "correctAnswerIndex": 3
   },
   {
     "id": 14,
-    "question": "Chi ha scritto 'Romeo e Giulietta'?",
-    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
-    "correctAnswerIndex": 1
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: Ștefan cel Mare era fiu al domnului Bogdan al II-lea; Un obiectiv de politică externă rezolvat de Ștefan cel Mare a fost reluarea cetății Chilia în 1462.",
+    "options": ["ambele afirmații sunt adevărate, cu relație de cauzalitate între ele", "ambele afirmații sunt adevărate, fără relație de cauzalitate", "primul enunț este fals, al doilea este adevărat", "primul enunț este adevărat, al doilea este fals"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 15,
-    "question": "Qual è il mammifero più grande del mondo?",
-    "options": ["Elefante Africano", "Balena Azzurra", "Giraffa", "Ippopotamo"],
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: Dinicu Golescu, autor al lucrării \"Însemnare a călătoriei mele\", a susținut forma de guvernământ republicană; Gheorghe Lazăr, cărturar iluminist, a susținut învățământul laic și a contribuit la fondarea școlii în limba română în Țara Românească.",
+    "options": ["primul enunț este fals, al doilea este adevărat", "ambele afirmații sunt adevărate, fără relație de cauzalitate", "ambele afirmații sunt adevărate, cu relație de cauzalitate între ele", "primul enunț este adevărat, al doilea este fals"],
     "correctAnswerIndex": 1
   },
   {
     "id": 16,
-    "question": "Quale gas costituisce la maggior parte dell'atmosfera terrestre?",
-    "options": ["Ossigeno", "Anidride Carbonica", "Azoto", "Idrogeno"],
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: Școlile străine sunt închise în 1948 în R.P.R.; Istoria României scrisă de M. Roller apare în 1948.",
+    "options": ["primul enunț este fals, al doilea este adevărat", "ambele afirmații sunt adevărate, cu relație de cauzalitate între ele", "primul enunț este adevărat, al doilea este fals", "ambele afirmații sunt adevărate, fără relație de cauzalitate"],
     "correctAnswerIndex": 2
   },
   {
     "id": 17,
-    "question": "In che anno è stato rilasciato il primo iPhone?",
-    "options": ["2006", "2007", "2008", "2009"],
-    "correctAnswerIndex": 1
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: La baza ideologiei bolșevice a stat marxism-leninismul; Stalinismul cultural a dus la o radicală restructurare a vechiului sistem de valori.",
+    "options": ["ambele afirmații sunt adevărate, fără relație de cauzalitate", "primul enunț este fals, al doilea este adevărat", "ambele afirmații sunt adevărate, cu relație de cauzalitate între ele", "primul enunț este adevărat, al doilea este fals"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 18,
-    "question": "Qual è la valuta del Giappone?",
-    "options": ["Won", "Yuan", "Yen", "Rupia"],
-    "correctAnswerIndex": 2
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: Moldova s-a constituit la mijlocul secolului al XIV-lea ca o marcă de apărare împotriva tătarilor ca urmare a descălecatului lui Dragoș, voievod din Maramureș; În jurul anului 1360 a avut loc al doilea descălecat, cel al lui Bogdan din Maramureș, care s-a ridicat împotriva politicii lui Carol Robert de Anjou de restrângere a drepturilor românilor.",
+    "options": ["ambele afirmații sunt adevărate, cu relație de cauzalitate între ele", "primul enunț este adevărat, al doilea este fals", "primul enunț este fals, al doilea este adevărat", "ambele afirmații sunt adevărate, fără relație de cauzalitate"],
+    "correctAnswerIndex": 1
   },
   {
     "id": 19,
-    "question": "In quale continente si trova il deserto del Sahara?",
-    "options": ["Asia", "Africa", "Australia", "Sud America"],
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: După 1958, Dej a evoluat spre o desprindere de U.R.S.S. și către obținerea unui statut de relativă autonomie; În Declarația din aprilie 1964, partidul își rezerva dreptul de a edifica socialismul în conformitate cu realitățile naționale.",
+    "options": ["primul enunț este adevărat, al doilea este fals", "ambele afirmații sunt adevărate, cu relație de cauzalitate între ele", "primul enunț este fals, al doilea este adevărat", "ambele afirmații sunt adevărate, fără relație de cauzalitate"],
     "correctAnswerIndex": 1
   },
   {
     "id": 20,
-    "question": "Cosa significa CSS nello sviluppo web?",
-    "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+    "question": "Stabiliți valoarea de Adevărat/Fals a următoarelor enunțuri și dacă există relație de cauzalitate între ele: Jesse Owens s-a aflat pe podiumul Jocurilor Olimpice de la Berlin din 1936, la proba de săritură în înălțime; Abia în 1984 performanța lui Owens a fost egalată de un alt sportiv american, Carl Lewis.",
+    "options": ["primul enunț este adevărat, al doilea este fals", "primul enunț este fals, al doilea este adevărat", "ambele afirmații sunt adevărate, cu relație de cauzalitate între ele", "ambele afirmații sunt adevărate, fără relație de cauzalitate"],
     "correctAnswerIndex": 1
   },
   {
     "id": 21,
-    "question": "Qual è il fiume più lungo del mondo?",
-    "options": ["Rio delle Amazzoni", "Fiume Nilo", "Fiume Mississippi", "Fiume Yangtze"],
-    "correctAnswerIndex": 1
+    "question": "Alegeți varianta corectă de răspuns: Constituția adoptată printr-un plebiscit, în care votul s-a făcut prin declarație verbală, consemnată pe liste separate cu cei ce votau pentru și cei ce votau contra a fost:",
+    "options": ["Constituția din 1948", "Constituția din 1965", "Constituția din 1991", "Constituția din 1938"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 22,
-    "question": "Qual è la sostanza naturale più dura sulla Terra?",
-    "options": ["Oro", "Ferro", "Diamante", "Platino"],
-    "correctAnswerIndex": 2
+    "question": "Alegeți varianta corectă de răspuns: SOVROM-urile au fost:",
+    "options": ["societăți mixte româno-sovietice create în principalele sectoare economice ale țării prin care URSS controla economia națională și jefuia bogățiile României", "parteneriate româno-sovietice pentru apărarea națională", "societăți mixte româno-sovietice în domeniul cultural", "societăți mixte româno-sovietice create în principalele sectoare economice ale țării prin care URSS sprijinea economia națională a României"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 23,
-    "question": "Chi ha sviluppato la teoria della relatività?",
-    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
-    "correctAnswerIndex": 1
+    "question": "Alegeți varianta corectă de răspuns: Domnia lui Cuza se termină la:",
+    "options": ["11/23 februarie 1866", "12/24 februarie 1866", "13/25 februarie 1866", "10/22 februarie 1866"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 24,
-    "question": "Qual è la capitale dell'Australia?",
-    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
-    "correctAnswerIndex": 2
+    "question": "Alegeți varianta corectă de răspuns: La 29 decembrie 1919, primul Parlament al României Mari a votat legile prin care era ratificată:",
+    "options": ["Unirea Basarabiei, Bucovinei și Transilvaniei cu România", "Unirea Transilvaniei", "Unirea Bucovinei", "Unirea Basarabiei"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 25,
-    "question": "Quale paradigma di programmazione segue React?",
-    "options": ["Orientato agli Oggetti", "Funzionale", "Basato su Componenti", "Procedurale"],
-    "correctAnswerIndex": 2
+    "question": "Alegeți varianta corectă de răspuns: Carol de Hohenzollern Sigmaringen era originar din:",
+    "options": ["Prusia", "Austria", "Alsacia", "Boemia"],
+    "correctAnswerIndex": 0
   },
   {
     "id": 26,
-    "question": "Qual è il punto di congelamento dell'acqua in Celsius?",
-    "options": ["-1°C", "0°C", "1°C", "32°C"],
+    "question": "Alegeți varianta corectă de răspuns: Papa Calixt al III-lea îl consideră drept \"atletul cel mai puternic - singurul - al lui Hristos\" pe:",
+    "options": ["Matei Corvin", "Iancu de Hunedoara", "Ștefan cel Mare", "Mihai Viteazul"],
     "correctAnswerIndex": 1
   },
   {
     "id": 27,
-    "question": "Quale azienda ha creato il sistema operativo Android?",
-    "options": ["Apple", "Microsoft", "Google", "Samsung"],
-    "correctAnswerIndex": 2
+    "question": "Alegeți varianta corectă de răspuns: Între 1936-1939 a avut loc un război civil în:",
+    "options": ["URSS", "Spania", "Portugalia", "Ungaria"],
+    "correctAnswerIndex": 1
   },
   {
     "id": 28,
-    "question": "Qual è il componente principale del Sole?",
-    "options": ["Elio", "Idrogeno", "Ossigeno", "Carbonio"],
-    "correctAnswerIndex": 1
+    "question": "Alegeți varianta corectă de răspuns: Prima alianță regională din Europa, în spiritul Societății Națiunilor, a fost creată în:",
+    "options": ["1919", "1922", "1921", "1920"],
+    "correctAnswerIndex": 2
   },
   {
     "id": 29,
-    "question": "In quale sport si esegue una schiacciata?",
-    "options": ["Calcio", "Pallacanestro", "Tennis", "Pallavolo"],
-    "correctAnswerIndex": 1
+    "question": "Alegeți varianta corectă de răspuns: În 15 noiembrie 1987, câteva sute de muncitori de la uzinele Steagul Roșu și Tractorul au organizat o demonstrație de stradă la:",
+    "options": ["Lupeni", "Sibiu", "Petroșani", "Brașov"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 30,
-    "question": "Cosa significa API nella programmazione?",
-    "options": ["Application Programming Interface", "Advanced Programming Interface", "Automated Programming Interface", "Application Process Interface"],
-    "correctAnswerIndex": 0
+    "question": "Alegeți varianta corectă de răspuns: Lucrările Getica și Începuturile vieții romane la gurile Dunării aparțin lui:",
+    "options": ["Al. Rosetti", "Gheorghe I. Brătianu", "Nicolae Iorga", "Vasile Pârvan"],
+    "correctAnswerIndex": 3
   }
 ]
