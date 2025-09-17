@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Qual è la capitale della Francia?",
+    "options": ["Londra", "Berlino", "Parigi", "Madrid"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 2,
+    "question": "Quale pianeta è conosciuto come il Pianeta Rosso?",
+    "options": ["Venere", "Marte", "Giove", "Saturno"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Quanto fa 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "Chi ha dipinto la Gioconda?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "Qual è l'oceano più grande della Terra?",
+    "options": ["Oceano Atlantico", "Oceano Indiano", "Oceano Artico", "Oceano Pacifico"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 6,
+    "question": "Quale linguaggio di programmazione è principalmente usato per lo sviluppo web?",
+    "options": ["Python", "JavaScript", "C++", "Java"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "Qual è il simbolo chimico dell'oro?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "In che anno è finita la Seconda Guerra Mondiale?",
+    "options": ["1944", "1945", "1946", "1947"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Qual è la radice quadrata di 64?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "Qual è il paese più piccolo del mondo?",
+    "options": ["Monaco", "Città del Vaticano", "San Marino", "Liechtenstein"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "Cosa significa HTML?",
+    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink and Text Markup Language"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 12,
+    "question": "Quale organo del corpo umano produce insulina?",
+    "options": ["Fegato", "Rene", "Pancreas", "Cuore"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 13,
+    "question": "Qual è la velocità della luce nel vuoto?",
+    "options": ["300.000 km/s", "299.792.458 m/s", "186.282 miglia/s", "Tutte le precedenti"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 14,
+    "question": "Chi ha scritto 'Romeo e Giulietta'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "Qual è il mammifero più grande del mondo?",
+    "options": ["Elefante Africano", "Balena Azzurra", "Giraffa", "Ippopotamo"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "Quale gas costituisce la maggior parte dell'atmosfera terrestre?",
+    "options": ["Ossigeno", "Anidride Carbonica", "Azoto", "Idrogeno"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 17,
+    "question": "In che anno è stato rilasciato il primo iPhone?",
+    "options": ["2006", "2007", "2008", "2009"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "Qual è la valuta del Giappone?",
+    "options": ["Won", "Yuan", "Yen", "Rupia"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "In quale continente si trova il deserto del Sahara?",
+    "options": ["Asia", "Africa", "Australia", "Sud America"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "Cosa significa CSS nello sviluppo web?",
+    "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 21,
+    "question": "Qual è il fiume più lungo del mondo?",
+    "options": ["Rio delle Amazzoni", "Fiume Nilo", "Fiume Mississippi", "Fiume Yangtze"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 22,
+    "question": "Qual è la sostanza naturale più dura sulla Terra?",
+    "options": ["Oro", "Ferro", "Diamante", "Platino"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 23,
+    "question": "Chi ha sviluppato la teoria della relatività?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "Qual è la capitale dell'Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 25,
+    "question": "Quale paradigma di programmazione segue React?",
+    "options": ["Orientato agli Oggetti", "Funzionale", "Basato su Componenti", "Procedurale"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 26,
+    "question": "Qual è il punto di congelamento dell'acqua in Celsius?",
+    "options": ["-1°C", "0°C", "1°C", "32°C"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "Quale azienda ha creato il sistema operativo Android?",
+    "options": ["Apple", "Microsoft", "Google", "Samsung"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 28,
+    "question": "Qual è il componente principale del Sole?",
+    "options": ["Elio", "Idrogeno", "Ossigeno", "Carbonio"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 29,
+    "question": "In quale sport si esegue una schiacciata?",
+    "options": ["Calcio", "Pallacanestro", "Tennis", "Pallavolo"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 30,
+    "question": "Cosa significa API nella programmazione?",
+    "options": ["Application Programming Interface", "Advanced Programming Interface", "Automated Programming Interface", "Application Process Interface"],
+    "correctAnswerIndex": 0
+  }
+]

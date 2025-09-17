@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 6,
+    "question": "Which programming language is primarily used for web development?",
+    "options": ["Python", "JavaScript", "C++", "Java"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "In which year did World War II end?",
+    "options": ["1944", "1945", "1946", "1947"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "Which is the smallest country in the world?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink and Text Markup Language"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 12,
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Liver", "Kidney", "Pancreas", "Heart"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 13,
+    "question": "What is the speed of light in vacuum?",
+    "options": ["300,000 km/s", "299,792,458 m/s", "186,282 miles/s", "All of the above"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 14,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "Which gas makes up most of Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 17,
+    "question": "In what year was the first iPhone released?",
+    "options": ["2006", "2007", "2008", "2009"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "What is the currency of Japan?",
+    "options": ["Won", "Yuan", "Yen", "Rupee"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "Which continent is the Sahara Desert located in?",
+    "options": ["Asia", "Africa", "Australia", "South America"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "What does CSS stand for in web development?",
+    "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 21,
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 22,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 23,
+    "question": "Who developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 25,
+    "question": "Which programming paradigm does React follow?",
+    "options": ["Object-Oriented", "Functional", "Component-Based", "Procedural"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 26,
+    "question": "What is the freezing point of water in Celsius?",
+    "options": ["-1°C", "0°C", "1°C", "32°C"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "Which company created the Android operating system?",
+    "options": ["Apple", "Microsoft", "Google", "Samsung"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 28,
+    "question": "What is the main component of the Sun?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 29,
+    "question": "In which sport would you perform a slam dunk?",
+    "options": ["Football", "Basketball", "Tennis", "Volleyball"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 30,
+    "question": "What does API stand for in programming?",
+    "options": ["Application Programming Interface", "Advanced Programming Interface", "Automated Programming Interface", "Application Process Interface"],
+    "correctAnswerIndex": 0
+  }
+]
