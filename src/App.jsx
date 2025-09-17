@@ -237,14 +237,14 @@ function App() {
           <button className="next-btn" onClick={handleNextQuestion}>
             {currentQuestionIndex === shuffledQuestions.length - 1
               ? selectedLanguage === "eng"
-                ? "Finish Quiz"
+                ? "Termină Testul"
                 : selectedLanguage === "ist"
-                ? "Termina Quiz"
+                ? "Termină Testul"
                 : "Termină Testul"
               : selectedLanguage === "eng"
-              ? "Next Question"
+              ? "Următoarea Întrebare"
               : selectedLanguage === "ist"
-              ? "Prossima Domanda"
+              ? "Următoarea Întrebare"
               : "Următoarea Întrebare"}
           </button>
         )}
